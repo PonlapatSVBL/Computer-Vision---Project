@@ -38,5 +38,5 @@
   * แสดงภาพ Histogram ทั้ง 3 channel  
 * User Interface  
 ### Program Requirements  
-* 1. Python3  
-* 2. ไลบราลี OpenCV, Numpy, Tkinter, Matplotlib, Imutils  
+1. Python3  
+2. ไลบราลี OpenCV, Numpy, Tkinter, Matplotlib, Imutils  
